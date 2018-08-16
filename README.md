@@ -1,4 +1,5 @@
 # CoinBay 
+### Deployed at http://34.218.253.86/ (AWS)
 ## Setup Instructions
 1. Run ```$ vagrant up```
 2. Navigate to project dir ~/coinbay-web-app/  
